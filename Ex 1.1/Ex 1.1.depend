@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1694008661 source:c:\users\amado\desktop\projectos\c unlam\fechas\ex 1.1\main.c
+	"header.h"
+
+1694008661 c:\users\amado\desktop\projectos\c unlam\fechas\ex 1.1\header.h
+	<stdio.h>
+	<stdlib.h>
+

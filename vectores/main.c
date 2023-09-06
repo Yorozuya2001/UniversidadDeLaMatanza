@@ -18,4 +18,5 @@ int main()
     eliminarTodasLasOcurrnecias(vector,&ce,param);
     mostrarVector(vector,ce);
     return 0;
+    
 }
