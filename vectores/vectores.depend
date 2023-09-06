@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1693592411 source:c:\users\amado\desktop\projectos\c unlam\fechas\vectores\header.c
+	"header.h"
+
+1693593980 c:\users\amado\desktop\projectos\c unlam\fechas\vectores\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1693949006 source:c:\users\amado\desktop\projectos\c unlam\fechas\vectores\main.c
+	"cabecera.h"
+
+1693947964 source:c:\users\amado\desktop\projectos\c unlam\fechas\vectores\cabecera.c
+	"cabecera.h"
+
+1693947865 c:\users\amado\desktop\projectos\c unlam\fechas\vectores\cabecera.h
+	<stdio.h>
+	<stdlib.h>
+
